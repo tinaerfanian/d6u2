@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(52, 52, 52);
+}
+
+#image-gallery .card {
+    background-color: gray;
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    cursor: pointer;
+  }
+  
+  .modal-body {
+    padding: 0;
+  }
+  
+  .modal-content {
+    background-color: gold;
+  }
+  
+  input[type="text"] {
+    max-width: 400px;
+  }
+  
